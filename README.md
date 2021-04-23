@@ -1,5 +1,5 @@
 # Exploratory Data Analysis & Visualization (Work in Progress) 
-Exploratory Data Analysis and visualization using Rython and R 
+Exploratory Data Analysis and visualization using Python and R 
 
 ![image](https://user-images.githubusercontent.com/62095715/96424057-0065fc00-121c-11eb-9ee6-b9914b8ac066.png)
 
